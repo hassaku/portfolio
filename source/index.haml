@@ -10,11 +10,11 @@
       Twitter
 
 %article.row.portfolio
-  .eye-catch.small-6.columns#hoge
+  .eye-catch.small-12.medium-6.columns#hoge
     =image_tag '/images/smart_kawaya.jpg'
     .title
       Title
-  .description.small-5.columns.end
+  .description.small-12.medium-5.columns.end
     %h3
       Foundation
       =link_to "#hoge", class: "link-to-content" do
@@ -23,10 +23,10 @@
       ここは本文エリア（右側）です。
 
 %article.row.portfolio
-  .eye-catch.small-6.columns#fuga
+  .eye-catch.small-12.medium-6.columns#fuga
     .flex-video
       %iframe{ src:"http://www.youtube.com/embed/T_icWeeoRyw?controls=0&rel=0", frameborder: "0" }
-  .description.small-5.columns.end
+  .description.small-12.medium-5.columns.end
     %h3
       Foundation 4サンプル
       =link_to "#fuga", class: "link-to-content" do
@@ -34,8 +34,9 @@
     %p
       ここは本文エリア（右側）です。
 
-.row.contact
-  =link_to 'mailto:hassaku.apps@gmail.com' do
-    %i.fa.fa-envelope-o
-  =link_to "https://github.com/hassaku" do
-    %i.fa.fa-github
+.row
+  .contact.small-4.small-offset-4.columns.end
+    =link_to 'mailto:hassaku.apps@gmail.com' do
+      %i.fa.fa-envelope-o
+    =link_to "https://github.com/hassaku" do
+      %i.fa.fa-github
