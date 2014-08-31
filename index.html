@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>Portfolio</title>
+    <meta content="This site is hassaku's portfolio." name='description'>
+    <meta content='hassaku' name='author'>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href='stylesheets/application.css' rel='stylesheet' type='text/css'>
+    <script src='javascripts/modernizr_wrapper.js' type='text/javascript'></script>
+  </head>
+  <body>
+    <div class='row'>
+      <h1 class='title'>
+        Hassaku's Portfolio
+      </h1>
+    </div>
+    <div class='row'>
+      <div class='social-likes'>
+        <div class='facebook'>
+          Facebook
+        </div>
+        <div class='twitter'>
+          Twitter
+        </div>
+      </div>
+    </div>
+    <article class='row portfolio'>
+      <div class='eye-catch small-6 columns' id='hoge'>
+        <img src="/images/smart_kawaya.jpg" />
+        <div class='title'>
+          Title
+        </div>
+      </div>
+      <div class='description small-5 columns end'>
+        <h3>
+          Foundation
+          <a class="link-to-content" href="#hoge"><i class='fa fa-link'></i>
+          </a>
+        </h3>
+        <p>
+          ここは本文エリア（右側）です。
+        </p>
+      </div>
+    </article>
+    <article class='row portfolio'>
+      <div class='eye-catch small-6 columns' id='fuga'>
+        <div class='flex-video'>
+          <iframe frameborder='0' src='http://www.youtube.com/embed/T_icWeeoRyw?controls=0&amp;rel=0'></iframe>
+        </div>
+      </div>
+      <div class='description small-5 columns end'>
+        <h3>
+          Foundation 4サンプル
+          <a class="link-to-content" href="#fuga"><i class='fa fa-link'></i>
+          </a>
+        </h3>
+        <p>
+          ここは本文エリア（右側）です。
+        </p>
+      </div>
+    </article>
+    <div class='row contact'>
+      <a href="mailto:hassaku.apps@gmail.com"><i class='fa fa-envelope-o'></i>
+      </a>
+      <a href="https://github.com/hassaku"><i class='fa fa-github'></i>
+      </a>
+    </div>
+    <div id='footer' style='text-align:center;'>
+      <p>Copyright(C) 2014 hassaku All Rights Reserverd.</p>
+    </div>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(["_setAccount", "UA-31136981-4"]);
+      _gaq.push(["_trackPageview"]);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script src='javascripts/application.js' type='text/javascript'></script>
+  </body>
+</html>
