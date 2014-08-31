@@ -10630,7 +10630,7 @@ body {
 
 .contact {
   border: 0;
-  padding: 0.5em;
+  text-align: center;
 }
 .contact a {
   font-size: 3em;
