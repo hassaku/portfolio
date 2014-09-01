@@ -10607,11 +10607,24 @@ body {
 }
 
 .description {
-  padding: 1em;
+  padding: 0.1em 1em 0.1em 1em;
   margin-left: 1em;
+}
+.description h3 {
+  margin: 0;
 }
 .description .link-to-content {
   font-size: 0.7em;
+}
+.description .date {
+  color: #111111;
+  float: left;
+  margin-right: 1em;
+}
+.description .tag {
+  margin-top: 2px;
+  margin-bottom: 1px;
+  vertical-align: middle;
 }
 
 .eye-catch .title {
