@@ -4,24 +4,60 @@
   src: "smart_kawaya.jpg"
   description: description fsdfasdadfsadsfasdfasdfasf
   date: aaa
+  tag: hardware
 
-- title: ISS iPhone view (iOS app)
-  flag: iss
+- title: Karta Memorization App
+  flag: karta
   type: youtube
-  src: "http://www.youtube.com/embed/fxUPjlsWqB8"
+  src: "fPy_SiMa2M8"
+  description: aaa
+  date: 2014
+  tag: iOS App
+
+- title: FRISK Heart Rate Monitor
+  flag: frisk-heart-rate
+  type: youtube
+  src: "ObqYfP4v5RM"
+  description: aaa
+  date: 2013
+  tag: hardware
+
+- title: Collaborative Minutes
+  flag: collaborative-minutes
+  type: youtube
+  src: "LHegIsirPLU"
   description: aaa
   date: 2012
+  tag: Web App
+
+- title: Online Interactive Jenga
+  flag: jenga
+  type: youtube
+  src: "o85SScYINPo"
+  description: aaa
+  date: 2012
+  tag: Web App
+
+- title: ISS iPhone Window
+  flag: iss
+  type: youtube
+  src: "fxUPjlsWqB8"
+  description: aaa
+  date: 2012
+  tag: iOS App
 
 - title: Frisk Robot
   flag: frisk-robot
   type: youtube
-  src: "http://www.youtube.com/embed/T_icWeeoRyw"
+  src: "T_icWeeoRyw"
   description: description fsdfasdadfsadsfasdfasdfasf
   date: 2011
+  tag: hardware
 
-- title: Thinking Branch (iOS app)
+- title: Thinking Branch
   flag: thinking-branch
   type: youtube
-  src: "http://www.youtube.com/embed/Gw4xqG9BZ0E"
+  src: "Gw4xqG9BZ0E"
   description: aaa
   date: 2011
+  tag: iOS App
