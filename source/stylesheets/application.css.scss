@@ -37,10 +37,26 @@ body {
 }
 
 .description {
-  padding: 1em;
+  padding: 0.1em 1em 0.1em 1em;
   margin-left: 1em;
+  h3 {
+    margin: 0;
+  }
+
   .link-to-content {
     font-size: 0.7em;
+  }
+
+  .date {
+    color: #111111;
+    float: left;
+    margin-right: 1em;
+  }
+
+  .tag {
+    margin-top: 2px;
+    margin-bottom: 1px;
+    vertical-align: middle;
   }
 }
 
