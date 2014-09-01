@@ -1,0 +1,27 @@
+- title: Smart Kawaya
+  flag: smart-kawaya
+  type: image
+  src: "smart_kawaya.jpg"
+  description: description fsdfasdadfsadsfasdfasdfasf
+  date: aaa
+
+- title: ISS iPhone view (iOS app)
+  flag: iss
+  type: youtube
+  src: "http://www.youtube.com/embed/fxUPjlsWqB8"
+  description: aaa
+  date: 2012
+
+- title: Frisk Robot
+  flag: frisk-robot
+  type: youtube
+  src: "http://www.youtube.com/embed/T_icWeeoRyw"
+  description: description fsdfasdadfsadsfasdfasdfasf
+  date: 2011
+
+- title: Thinking Branch (iOS app)
+  flag: thinking-branch
+  type: youtube
+  src: "http://www.youtube.com/embed/Gw4xqG9BZ0E"
+  description: aaa
+  date: 2011
