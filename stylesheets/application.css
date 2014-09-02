@@ -10608,7 +10608,11 @@ body {
 
 .description {
   padding: 0.1em 1em 0.1em 1em;
-  margin-left: 1em;
+}
+@media only screen and (min-width: 40.063em) {
+  .description {
+    margin-left: 1em;
+  }
 }
 .description h3 {
   margin: 0;
