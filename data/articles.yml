@@ -1,32 +1,48 @@
+- title: Welcome Wedding Robot
+  flag: welcome-robot
+  type: youtube
+  src: "lVcipYHZPs4"
+  description: under construction
+  date: 2014
+  tag: hardware
+
 - title: Smart Kawaya
   flag: smart-kawaya
   type: image
   src: "smart_kawaya.jpg"
-  description: description fsdfasdadfsadsfasdfasdfasf
-  date: aaa
+  description: under construction
+  date: 2014
   tag: hardware
 
 - title: Karta Memorization App
   flag: karta
   type: youtube
   src: "fPy_SiMa2M8"
-  description: aaa
-  date: 2014
+  description: under constrcution
+  date: 2013
   tag: iOS App
 
 - title: FRISK Heart Rate Monitor
   flag: frisk-heart-rate
   type: youtube
   src: "ObqYfP4v5RM"
-  description: aaa
+  description: under construction
   date: 2013
   tag: hardware
+
+- title: Message In A Satellite
+  flag: satellite
+  type: image
+  src: "satellite.jpg"
+  description: under construction
+  date: 2013
+  tag: Web App
 
 - title: Collaborative Minutes
   flag: collaborative-minutes
   type: youtube
   src: "LHegIsirPLU"
-  description: aaa
+  description: under construction
   date: 2012
   tag: Web App
 
@@ -34,7 +50,7 @@
   flag: jenga
   type: youtube
   src: "o85SScYINPo"
-  description: aaa
+  description: under construction
   date: 2012
   tag: Web App
 
@@ -42,7 +58,7 @@
   flag: iss
   type: youtube
   src: "fxUPjlsWqB8"
-  description: aaa
+  description: under construction
   date: 2012
   tag: iOS App
 
@@ -50,7 +66,7 @@
   flag: frisk-robot
   type: youtube
   src: "T_icWeeoRyw"
-  description: description fsdfasdadfsadsfasdfasdfasf
+  description: under construction
   date: 2011
   tag: hardware
 
@@ -58,7 +74,7 @@
   flag: thinking-branch
   type: youtube
   src: "Gw4xqG9BZ0E"
-  description: aaa
+  description: under construction
   date: 2011
   tag: iOS App
 
@@ -66,7 +82,7 @@
   flag: questionnaire
   type: youtube
   src: "9hdRugOboSI"
-  description: aaa
+  description: under construction
   date: 2011
   tag: Web App
 
@@ -74,15 +90,62 @@
   flag: questionnaire
   type: youtube
   src: "rVW2ARU0hEo"
-  description: aaa
+  description: under construction
   date: 2011
   tag: Web App
+
+- title: Compact Equatorial
+  flag: equatorial
+  type: image
+  src: "equatorial.jpg"
+  description: under construction
+  date: 2011
+  tag: hardware
+
+- title: Power Logging Device
+  flag: power
+  type: image
+  src: "power_clump.jpg"
+  description: under construction
+  date: 2010
+  tag: hardware
 
 - title: Tsukuba Challenge Robot
   flag: tsukuchalle
   type: youtube
   src: "prxL5FZBE2c"
-  description: aaa
+  description: under construction
   date: 2009
   tag: hardware
 
+- title: Micro Clipper Robot 2
+  flag: clipper2005
+  type: image
+  src: "clipper.jpg"
+  description: under construction
+  date: 2005
+  tag: hardware
+
+- title: Micro Clipper Robot
+  flag: clipper2004
+  type: youtube
+  src: "gn92zgEMvXA"
+  description: This is the Micro-Clipper Robot which I had made with my friend when I was in college. This autonomous mobile robot has grasping and turning a can upside down mechanisms.
+  date: 2004
+  tag: hardware
+
+- title: Live Cammera at Bakery
+  flag: live-cammera
+  type: image
+  src: "live_cammera.jpg"
+  description: under construction
+  date: 2002
+  tag: Web App
+
+- title: Autonomous Sumo Robot
+  flag: sumo
+  type: image
+  src: "sumo.jpg"
+  description: under construction
+  date: 2001
+  tag: hardware
