@@ -9,7 +9,6 @@ $ middleman server
 ex) http://hassaku.github.io/portfolio/
 
 ```
-$ rake build
 $ rake publish
 ```
 
