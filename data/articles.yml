@@ -122,7 +122,7 @@
   flag: clipper2005
   type: image
   src: "clipper.jpg"
-  description: under construction
+  description: This is the next version of Micro-Clipper Robot. The feature is to grasp, turn and put a can without stoping. It took the Namco award.
   date: 2005
   tag: hardware
 
@@ -130,7 +130,7 @@
   flag: clipper2004
   type: youtube
   src: "gn92zgEMvXA"
-  description: This is the Micro-Clipper Robot which I had made with my friend when I was in college. This autonomous mobile robot has grasping and turning a can upside down mechanisms.
+  description: This autonomous Micro-Clipper robot has grasping and turning a can upside down mechanisms. The feature to enable sensing farther walls and planing in an efficient way. It took the technology award.
   date: 2004
   tag: hardware
 
@@ -138,7 +138,7 @@
   flag: live-cammera
   type: image
   src: "live_cammera.jpg"
-  description: under construction
+  description: The networed live camera system at bakery in university. Anyone could check fresh breads anytime online. The feature of the system is to notify breads changing using image analysis.
   date: 2002
   tag: Web App
 
@@ -146,6 +146,6 @@
   flag: sumo
   type: image
   src: "sumo.jpg"
-  description: under construction
+  description: This is the first robot I have made ever! <a href='http://en.wikipedia.org/wiki/Robot-sumo'>Robot-Sumo</a> is a kind of battle game using robot which is popular in Japan. The feature of the robot is to have contrast scrapers between front and back.
   date: 2001
   tag: hardware
