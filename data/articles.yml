@@ -66,7 +66,7 @@
   flag: frisk-robot
   type: youtube
   src: "T_icWeeoRyw"
-  description: under construction
+  description: I made the small toy robot using FRISK case. He moves by two vibration motors in response to light.
   date: 2011
   tag: hardware
 
@@ -74,7 +74,7 @@
   flag: thinking-branch
   type: youtube
   src: "Gw4xqG9BZ0E"
-  description: under construction
+  description: This is the first iOS application which I released. It is idea processor tool like mind map.
   date: 2011
   tag: iOS App
 
@@ -82,7 +82,7 @@
   flag: questionnaire
   type: youtube
   src: "9hdRugOboSI"
-  description: under construction
+  description: This presentaion tool enables anyone to access an arbitrary page and to add comments on the page. The comments are viewed by others at the same time. HTML5 Canvas and WebSocket are used.
   date: 2011
   tag: Web App
 
@@ -90,7 +90,7 @@
   flag: questionnaire
   type: youtube
   src: "rVW2ARU0hEo"
-  description: under construction
+  description: Questionnaire application to create quesitions and to vote the options online. It enables to push them in realtime using GAE ChannelAPI.
   date: 2011
   tag: Web App
 
@@ -98,15 +98,15 @@
   flag: equatorial
   type: image
   src: "equatorial.jpg"
-  description: under construction
+  description: This is the manual tracking equatorial mount to take starry sky photos. I designed it to track stars by turning screw in a clockwise rotation with the second hand of a clock.
   date: 2011
   tag: hardware
 
-- title: Power Logging Device
+- title: Household Power Logging Device
   flag: power
   type: image
   src: "power_clump.jpg"
-  description: under construction
+  description: I made very compact device for logging household power usage. It has non-contact current sensor, two AAA batteries and micro SD card writer to store power usage a minute.
   date: 2010
   tag: hardware
 
@@ -114,7 +114,7 @@
   flag: tsukuchalle
   type: youtube
   src: "prxL5FZBE2c"
-  description: under construction
+  description: This is the autonomous robot run in the Tsukuba Challenge competition which is famous as real world robot challenge in Japan. I devised ways of keeping everything compact effectively as to bring whithin my carry case and could set up the robot easily.
   date: 2009
   tag: hardware
 
@@ -130,7 +130,7 @@
   flag: clipper2004
   type: youtube
   src: "gn92zgEMvXA"
-  description: This autonomous Micro-Clipper robot has grasping and turning a can upside down mechanisms. The feature to enable sensing farther walls and planing in an efficient way. It took the technology award.
+  description: This autonomous Micro-Clipper robot has grasping and turning a can upside down mechanisms. The feature is to enable sensing farther walls and planing in an efficient way. It took the technology award.
   date: 2004
   tag: hardware
 
