@@ -2,7 +2,7 @@
   flag: welcome-robot
   type: youtube
   src: "lVcipYHZPs4"
-  description: under construction
+  description: "I prepare robot for our wedding party instead of ordinary welcome wedding sign. He kept writing the date of party and hart mark at reception. It's inspired by <a href=http://www.thingiverse.com/thing:248009>Plotclock</a>."
   date: 2014
   tag: hardware
 
@@ -10,15 +10,15 @@
   flag: smart-kawaya
   type: image
   src: "smart_kawaya.jpg"
-  description: under construction
+  description: "The system to check our office toilet remotely without the need to go to a restroom. It enables us to focus attention only on our work. We're verifing practical effectiveness of this system at our small office. Motion and CDS sensors are connected Spark Core device. And the measurements are sent to users chrome extension via WiFi. When there is long-stay occupier, you could sound the buzzer attached this system. Detail is <a href=http://www.hackster.io/hassaku/wifi-toilet-sensor-for-vacancy-and-light>here</a>."
   date: 2014
   tag: hardware
 
-- title: Karta Memorization App
-  flag: karta
+- title: Karuta Memorization App
+  flag: karuta
   type: youtube
   src: "fPy_SiMa2M8"
-  description: under constrcution
+  description: "The iOS application for me to memorize the words in <a href=http://en.wikipedia.org/wiki/Karuta>Karuta</a>. It enables to show also a play on words in addition to set of Karuta words."
   date: 2013
   tag: iOS App
 
@@ -26,7 +26,7 @@
   flag: frisk-heart-rate
   type: youtube
   src: "ObqYfP4v5RM"
-  description: under construction
+  description: "I embedded heart rate sensor in FRISK case. Heart rate is indicated by the blinking LED at caps lock key. It's introduced in <a href=https://speakerdeck.com/hassaku/tokyorubykaigi10>my presentaion</a> at Tokyo Ruby Kaigi 10."
   date: 2013
   tag: hardware
 
@@ -34,7 +34,7 @@
   flag: satellite
   type: image
   src: "satellite.jpg"
-  description: under construction
+  description: "Message In A Sattellite web application enables you to make a message in a satellite flying abobe your head. The message might be opened someone in another place. Your browser have to support Geolocation API."
   date: 2013
   tag: Web App
 
@@ -42,7 +42,7 @@
   flag: collaborative-minutes
   type: youtube
   src: "LHegIsirPLU"
-  description: under construction
+  description: "The small web application to take minutes of meeting using Meteor framework. Anyone could select someone's and put one's remarks on record in realtime like Google Docs."
   date: 2012
   tag: Web App
 
@@ -50,7 +50,7 @@
   flag: jenga
   type: youtube
   src: "o85SScYINPo"
-  description: under construction
+  description: This demo web application is made to apply becoming Leap Motion developper. I appealeld a potential of fun to play Jenga online using Leap Motion.
   date: 2012
   tag: Web App
 
@@ -58,7 +58,7 @@
   flag: iss
   type: youtube
   src: "fxUPjlsWqB8"
-  description: under construction
+  description: Prototype iOS native application made for the Space Apps Challenges. It downloads a current image from NASA website and changes lock screen at intervals.
   date: 2012
   tag: iOS App
 
@@ -138,7 +138,7 @@
   flag: live-cammera
   type: image
   src: "live_cammera.jpg"
-  description: The networed live camera system at bakery in university. Anyone could check fresh breads anytime online. The feature of the system is to notify breads changing using image analysis.
+  description: The networed live camera system at bakery in university. Anyone could check fresh breads anytime online. The feature of the system is to notify breads replacing via image analysis.
   date: 2002
   tag: Web App
 
