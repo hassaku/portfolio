@@ -103,7 +103,7 @@
   tag: hardware
 
 - title: MPPT Experiment System
-  flag: power
+  flag: mppt
   type: image
   src: "mppt.jpg"
   description: Maximum Power Point Tracking(MPPT) is a technique that charge controllers use for PV solar systems to employ and maximize power output. This system has an illuminance sensor and a thermometer. The maximum power point is calculated by illuminance, temperature and actual power output. Arduino is used for processing and logging (not shown in the picture).
