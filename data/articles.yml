@@ -38,6 +38,14 @@
   date: 2013
   tag: Web App
 
+- title: Crap
+  flag: crap
+  type: image
+  src: "crap.png"
+  description: Crap is visualizer for excited audience. Using web browser, it shows audio spectrogram and enables to capture most excited moments in real-time. Then the captured results used for rakning in an event such as lightning talks.
+  date: 2013
+  tag: Web App
+
 - title: Collaborative Minutes
   flag: collaborative-minutes
   type: youtube
