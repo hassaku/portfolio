@@ -139,7 +139,7 @@
   type: image
   src: "uekibachi.jpg"
   description: This is an interactive toy made as a coursework assignment. When you expose the top of flower made by 3D printer to infrared light, the flower starts spinning and opening petals, then some messages are shown by LED array.
-  data: 2007
+  date: 2007
   tag: hardware
 
 - title: Micro Clipper Robot 2
