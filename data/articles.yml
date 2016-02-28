@@ -1,3 +1,11 @@
+- title: Metro Toilet Finder
+  flag: metro-app
+  type: youtube
+  src: "hIpWrO7SIzg"
+  description: "This application was made to enter the Tokyo Metro Open Data Contest and won <a href=http://ascii.jp/elem/000/000/982/982311/>the prize</a>. It enable to find toilets on your train route easily and share the congestion of them."
+  date: 2015
+  tag: Web App
+
 - title: Welcome Wedding Robot
   flag: welcome-robot
   type: youtube
