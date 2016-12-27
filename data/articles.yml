@@ -1,3 +1,19 @@
+- title: IoT Pill Case
+  flag: pillcase
+  type: youtube
+  src: "3T8BMiGB-SU"
+  description: "The mobile pill case connected by 3G to watch out for an usage history of medicines by others such as children of the elderly or doctors. It prevents forgetting to take medicines through communication with a care person. The demonstration of this prototype won <a href=https://gugen.jp/2016contest-result>the prize</a>."
+  date: 2016
+  tag: IoT
+
+- title: Smart Home for Childcare
+  flag: smart-home
+  type: image
+  src: "smarthome.jpg"
+  description: "I built the system to control several appliances such as light, air conditioner and so on by voice. It's very useful for me to take childcare situation like that my hand is dirty. Of course I can remote control them from outside to warm and humidify our room in advance. In addition, I can take a note the count of son's diaper changes or milks by voice quickly. I add useful functions day by day."
+  date: 2016
+  tag: IoT
+
 - title: Metro Toilet Finder
   flag: metro-app
   type: youtube
