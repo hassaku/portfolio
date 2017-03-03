@@ -1,3 +1,11 @@
+- title: UbeBot
+  flag: bot
+  type: image
+  src: "ubebot.jpg"
+  description: "ChatBot to answer anything about Ube-city's homepage and its open data automatically. Bot is running on messaging platform LINE in Japan. <a href=http://ubebot-unofficial.strikingly.com target='blank'>Details is here</a>."
+  date: 2017
+  tag: ChatBot
+
 - title: IoT Pill Case
   flag: pillcase
   type: youtube
