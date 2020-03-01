@@ -1,3 +1,11 @@
+- title: Flu prediction from POS data
+  flag: machine-learning
+  type: image
+  src: "flu.jpg"
+  description: "WIP"
+  date: 2018
+  tag: Data
+
 - title: UbeBot
   flag: bot
   type: image
