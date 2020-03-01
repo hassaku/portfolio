@@ -8410,9 +8410,12 @@ th.hide-for-touch {
     display: table-cell !important;
   }
 }
-/*! Social Likes v3.0.14 by Artem Sapegin - http://sapegin.github.com/social-likes - Licensed MIT */
-.social-likes, .social-likes__widget {
+/*! Social Likes v3.0.15 by Artem Sapegin - http://sapegin.github.com/social-likes - Licensed MIT */
+.social-likes {
   display: inline-block;
+}
+
+.social-likes, .social-likes__widget {
   padding: 0;
   vertical-align: middle !important;
   word-spacing: 0 !important;
@@ -8453,7 +8456,6 @@ th.hide-for-touch {
 }
 
 .social-likes_vertical .social-likes__widget {
-  display: block;
   float: left;
   clear: left;
 }
@@ -8463,8 +8465,13 @@ th.hide-for-touch {
   text-rendering: optimizeLegibility;
 }
 
-.social-likes__button, .social-likes__counter {
+.social-likes__button {
   display: inline-block;
+  margin: 0;
+  outline: 0;
+}
+
+.social-likes__counter {
   margin: 0;
   outline: 0;
 }
