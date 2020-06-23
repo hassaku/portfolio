@@ -1,10 +1,26 @@
-- title: Flu prediction from POS data
-  flag: machine-learning
+- title: 河川水位計の異常検出
+  flag: river-modeling
+  type: youtube
+  src: "2b6cPIYNIPM"
+  description: "防災テックチャレンジ2020向けに実施。上流下流の関係性を利用して、機械学習モデルにより、水位計の故障を検知しようとする試み。"
+  date: 2020
+  tag: MachineLearning
+
+- title: おもちゃのキモチ
+  flag: toys-feeling
+  type: youtube
+  src: "zTc2PVL2r_0"
+  description: "子どものおもちゃにセンサータグを装着し、おもちゃの利用度合いを可視化したり、お片付けを促すシステムを構築した。ROHM OPEN HACK CHALLENGE 2019向けの事前ハッカソンイベントに参加し、イベント中にチームメイトに恵まれ、そこそこ完成度の高いデモも出来たため、そのまま、コンテストにも応募した。コンテストでは優秀賞を頂くことが出来、CEATECでの展示も行った。<a href=http://open.rohm.com/jp/events/rohc2019_190930>詳細はこちら</a>"
+  date: 2019
+  tag: IoT
+
+- title: ドラッグストアの購買データを利用したインフルエンザ流行時期予測
+  flag: flu-prediction
   type: image
-  src: "flu.jpg"
-  description: "WIP"
+  src: "pharmacy.png"
+  description: "内容非公開のデータ活用コンテスト。ドラッグストアのマスク等の衛生用品の売上時系列データから、将来のインフルエンザ流行時期の予測に取り組んだ。医療機関で集計されるよりも早く、市中における初期の流行を捉えられるかどうかがポイントであったが、大規模なデータと地域性を考慮すると、そこそこ尤もらしい結果が得られた。"
   date: 2018
-  tag: Data
+  tag: MachineLearning
 
 - title: UbeBot
   flag: bot
