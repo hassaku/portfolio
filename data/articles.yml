@@ -2,7 +2,7 @@
   flag: audio-plot
   type: youtube
   src: "uYBkDIsXzmY"
-  description: "視覚に頼らずにデータサイエンスや機械学習技術を習得するために必要な、情報整理やツール開発のプロジェクト。Google Colaboratory上の視覚的な状態変化を音で通知するライブラリやグラフを音に変換出来るような可視化の代替手段となるようなライブラリを作成。また、これらのライブラリを用いて、基本的な機械学習や高度な深層学習のチュートリアルも作成"
+  description: "視覚に頼らずにデータサイエンスや機械学習技術を習得するために必要な、情報整理やツール開発のプロジェクト。Google Colaboratory上の視覚的な状態変化を音で通知するライブラリやグラフを音に変換出来るような可視化の代替手段となるようなライブラリを作成しました。<a href=https://hassaku.github.io/DS-and-ML-with-screen-reader/index_ja.html>詳細はこちら</a>"
   date: 2020
   tag: MachineLearning
 
